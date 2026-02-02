@@ -55,21 +55,21 @@ These findings highlight that **classical machine learning remains highly effect
 ## Visualizations & Analysis
 
 ### Overall Model Comparison
-![Overall Model Comparison](Model Performance Comparison.PNG)
+![/Overall Model Comparison](ModelPerformanceComparison.PNG)
 
 
 ---
 
 ### Per-Genre Performance Breakdown
-![Per-Genre Performance Breakdown](pergenref1score.PNG)
+![/Per-Genre Performance Breakdown](pergenref1score.PNG)
 
 
 ---
 
 ### Confusion Matrices
-![Confusion Matrix - SVM](CMSVM.PNG)
+![/Confusion Matrix - SVM](CMSVM.PNG)
 
-![Confusion Matrix - Hybrid LLM](dCMHLLM.PNG)
+![/Confusion Matrix - Hybrid LLM](dCMHLLM.PNG)
 
 ---
 

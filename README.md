@@ -55,13 +55,13 @@ These findings highlight that **classical machine learning remains highly effect
 ## Visualizations & Analysis
 
 ### Overall Model Comparison
-![/Overall Model Comparison](ModelPerformanceComparison.PNG)
+![/Overall Model Comparison](ModelPerformanceComparison.png)
 
 
 ---
 
 ### Per-Genre Performance Breakdown
-![/Per-Genre Performance Breakdown](pergenref1score.PNG)
+![/Per-Genre Performance Breakdown](pergenref1score.png)
 
 
 ---

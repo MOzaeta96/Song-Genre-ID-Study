@@ -55,7 +55,7 @@ These findings highlight that **classical machine learning remains highly effect
 ## Visualizations & Analysis
 
 ### Overall Model Comparison
-![/Overall Model Comparison](ModelPerformanceComparison.png)
+![/Overall Model Comparison](Model Performance Comparison.png)
 
 
 ---
@@ -67,9 +67,9 @@ These findings highlight that **classical machine learning remains highly effect
 ---
 
 ### Confusion Matrices
-![/Confusion Matrix - SVM](CMSVM.PNG)
+![/Confusion Matrix - SVM](CMSVM.png)
 
-![/Confusion Matrix - Hybrid LLM](dCMHLLM.PNG)
+![/Confusion Matrix - Hybrid LLM](dCMHLLM.png)
 
 ---
 

@@ -1,0 +1,13 @@
+target_genres:
+  - Pop
+  - Rock
+  - Country
+  - Hip-Hop
+  - Latin
+
+keyword_map:
+  Pop: [pop, dance-pop, electropop, teen pop, synthpop]
+  Rock: [rock, alternative rock, indie rock, hard rock, punk rock, classic rock]
+  Country: [country, contemporary country, country pop, country rock]
+  Hip-Hop: [hip hop, hip-hop, rap, trap, southern hip hop]
+  Latin: [latin, reggaeton, latin pop, urbano latino, latin trap, bachata]
